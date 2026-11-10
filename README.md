@@ -88,24 +88,14 @@ I value clean code, simple solutions and seeing projects through to the end.
 <tr>
 <td valign="top" width="50%">
 
-### 📚 [BookDelight](https://github.com/Narothe/BookDelight)
-A social web portal for managing a book database: discover titles, build your bookshelf, write reviews and discuss them with other readers.
+### 🏦 [Payflow](https://github.com/enqer/payflow)
+A banking web application built as a team university project: Java Spring backend and React frontend.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
-
-### 📄 [Time Records](https://github.com/Narothe/time-records)
-Generates a PDF work time log from an imported Excel file. Runs entirely in the browser, with no backend. [Live demo](https://narothe.github.io/time-records/).
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 ### 💸 [Payflow Mobile](https://github.com/Narothe/payflow-mobile)
@@ -114,13 +104,25 @@ A mobile application written in TypeScript.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
-### 🏖️ [Camunda Holiday Request](https://github.com/Narothe/camunda-holiday-request)
-Automation of a holiday request business process in Camunda.
+### 💬 [Connectify](https://github.com/enqer/connectify-project-app)
+A team project: a chat application with user registration, an admin panel and statistics.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Camunda](https://img.shields.io/badge/Camunda-FC5D0D?style=flat-square&logo=camunda&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### 📚 [BookDelight](https://github.com/Narothe/BookDelight)
+A social web portal for managing a book database: discover titles, build your bookshelf, write reviews and discuss them with other readers.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
@@ -138,8 +140,8 @@ Automation of a holiday request business process in Camunda.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Narothe&show_icons=true&hide_border=true&bg_color=00000000&title_color=0EA5E9&icon_color=0EA5E9&text_color=8B949E&count_private=false" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narothe&layout=compact&hide_border=true&bg_color=00000000&title_color=0EA5E9&text_color=8B949E" height="170" alt="Most used languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Narothe&show_icons=true&hide_border=true&bg_color=00000000&title_color=0EA5E9&icon_color=0EA5E9&text_color=8B949E&count_private=false" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Narothe&layout=compact&hide_border=true&bg_color=00000000&title_color=0EA5E9&text_color=8B949E" height="170" alt="Most used languages" />
 
 </div>
 
